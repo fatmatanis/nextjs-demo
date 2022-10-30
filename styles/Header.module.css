@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: aquamarine;
+}
+
+.title {
+  display: flex;
+  flex-direction: row;
+  color: blueviolet;
+  gap: 16px;
+  font-size: 22px;
+  list-style: none;
+  outline: none;
+}
